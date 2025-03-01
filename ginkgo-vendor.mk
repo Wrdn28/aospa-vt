@@ -377,13 +377,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     vendor.dolby.hardware.dms@2.0 \
-    android.hardware.camera.provider@2.4-legacy \
     btaudio_offload_if \
-    camera.device@1.0-impl \
-    camera.device@3.2-impl \
-    camera.device@3.3-impl \
-    camera.device@3.4-impl \
-    camera.device@3.5-impl \
     android.hardware.bluetooth@1.0-impl-qti \
     audio.bluetooth_qti.default \
     audio.primary.trinket \
